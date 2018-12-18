@@ -1002,6 +1002,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  countText: {fileID: 193420603}
 --- !u!54 &655724031
 Rigidbody:
   m_ObjectHideFlags: 0
